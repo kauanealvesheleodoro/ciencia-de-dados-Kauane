@@ -1,0 +1,1 @@
+const url = 'https://raw.githubusercontent.com/kauanealvesheleodoro/ciencia-de-dados-Kauane/refs/heads/main/dados-globais.json';
