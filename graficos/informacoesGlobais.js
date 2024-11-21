@@ -3,8 +3,8 @@ const url = 'https://raw.githubusercontent.com/kauanealvesheleodoro/ciencia-de-d
 async function visualizarinformacoesGlobais(){
     const res = await fetch (url);
 
-    const dados = await res.json();
+    const dados = await res.json(); 
 }
-    
+    visualizarinformacoesGlobais();
 
     
